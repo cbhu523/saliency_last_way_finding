@@ -16,7 +16,7 @@ Hierarchical salient object selection based on Image Segemmentation (<a href="ht
 
 ### Step2 - Image inpainting
 
-Based on LaMa model (<a href="https://github.com/saic-mdal/lama">link</a>)
+Finetuned on LaMa model (<a href="https://github.com/saic-mdal/lama">link</a>)
 
 ### Step3 - Measurement of human visual attention
 
