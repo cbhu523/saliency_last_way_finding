@@ -6,7 +6,7 @@ We propose a saliency-guided street view image inpainting method, which can remo
 
 Hierarchical salient object selection based on Image Segemmentation (<a href="https://github.com/open-mmlab/mmsegmentation/tree/master/configs/deeplabv3plus">DeepLabv3+</a>, <a href="https://github.com/open-mmlab/mmsegmentation/blob/master/configs/deeplabv3plus/deeplabv3plus_r101-d8_769x769_80k_cityscapes.py">Model</a>) and Salient Object Detection (<a href="https://github.com/xuebinqin/U-2-Net">U^2Net</a>).
 
-![Figure1](Fig.jpg)
+Then 
 
 ## Citation
 For more details please refer to the original papers:
