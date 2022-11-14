@@ -9,7 +9,7 @@ We propose a saliency-guided street view image inpainting method, which can remo
 3) Inpainting Mask Generation using "mask_selection.ipynb": input the segmenation result and SOD result to the mask generation module and get the inpainting mask.
 
 ## Citation
-For more details please refer to the DeepLabv3+ paper:
+For more details, please refer to the DeepLabv3+ paper:
 ```
 @inproceedings{chen2018encoder,
   title={Encoder-decoder with atrous separable convolution for semantic image segmentation},
@@ -18,7 +18,7 @@ For more details please refer to the DeepLabv3+ paper:
   pages={801--818},
   year={2018}
 }
-
+```
 
 U^2Net paper:
 ```
@@ -31,7 +31,7 @@ U^2Net paper:
   year={2020},
   publisher={Elsevier}
 }
-
+```
 
 and our paper:
 ```
