@@ -4,7 +4,11 @@
 
 Evaluation of human visual changes based on UNISAL network (<a href="https://github.com/rdroste/unisal">link</a>) and a self-developed human labelling program. 
 
-Self-developed program for human last-meters wayfinding evaluation. Paired images, for example, examples in (a) and (b), are used to report results for comparison, while unpaired images, e.g., examples in (c) and (d), are shown to each volunteer to ensure that the finding scene is not repeated.
+1) Human visual attention prediction on the orignal image and inpainted image using the UNISAL network (<a href="https://github.com/rdroste/unisal">link</a>);
+2) Measurement of human visual changes on ROI (Region of interest) using "saliency_change.ipynb";
+3) Self-developed program for human evaluation under the folder "human_eva/":
+
+The self-developed program for human last-meters wayfinding evaluation. Paired images, for example, examples in (a) and (b), are used to report results for comparison, while unpaired images, e.g., examples in (c) and (d), are shown to each volunteer to ensure that the finding scene is not repeated.
 
 ![Figure3](Fig.png)
 
