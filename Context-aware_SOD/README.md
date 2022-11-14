@@ -6,14 +6,15 @@ We propose a saliency-guided street view image inpainting method, which can remo
 
 Hierarchical salient object selection based on Image Segemmentation (<a href="https://github.com/open-mmlab/mmsegmentation/tree/master/configs/deeplabv3plus">DeepLabv3+</a>, <a href="https://github.com/open-mmlab/mmsegmentation/blob/master/configs/deeplabv3plus/deeplabv3plus_r101-d8_769x769_80k_cityscapes.py">Model</a>) and Salient Object Detection (<a href="https://github.com/xuebinqin/U-2-Net">U^2Net</a>).
 
-![Figure1](Fig.png)
+![Figure1](Fig.jpg)
 
 ## Citation
-For more details please refer to our paper:
+For more details please refer to the original papers:
 ```
-@article{hu2022saliency,
-  title={A Saliency-Guided Street View Image Inpainting Framework for Efficient Last-Meters Wayfinding},
-  author={Hu, Chuanbo and Jia, Shan and Zhang, Fan and Li, Xin},
-  journal={arXiv preprint arXiv:2205.06934},
-  year={2022}
+@inproceedings{chen2018encoder,
+  title={Encoder-decoder with atrous separable convolution for semantic image segmentation},
+  author={Chen, Liang-Chieh and Zhu, Yukun and Papandreou, George and Schroff, Florian and Adam, Hartwig},
+  booktitle={Proceedings of the European conference on computer vision (ECCV)},
+  pages={801--818},
+  year={2018}
 }
