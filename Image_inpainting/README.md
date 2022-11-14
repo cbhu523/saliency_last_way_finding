@@ -6,7 +6,7 @@
 Finetuned on LaMa model (<a href="https://github.com/saic-mdal/lama">link</a>)
 
 ## Citation
-For more details please refer to LaMa paper:
+For more details please refer to the LaMa paper:
 ```
 @inproceedings{suvorov2022resolution,
   title={Resolution-robust large mask inpainting with fourier convolutions},
