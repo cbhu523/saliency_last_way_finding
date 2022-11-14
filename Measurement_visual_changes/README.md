@@ -1,6 +1,6 @@
 # A Saliency-Guided Street View Image Inpainting Framework for Efficient Last-Meters Wayfinding [<a href="https://arxiv.org/pdf/2205.06934.pdf?ref=https://githubhelp.com">Paper</a>]
 
-### Step3 - Measurement of human visual attention
+### Step 3 - Measurement of human visual attention
 
 Evaluation of human visual changes based on UNISAL network (<a href="https://github.com/rdroste/unisal">link</a>) and a self-developed human labelling program. 
 
