@@ -2,7 +2,7 @@
 
 We propose a saliency-guided street view image inpainting method, which can remove distracting objects to redirect human visual attention to static landmarks.
 
-![Figure3](Fig_program.png)
+![Figure3](Fig.png)
 
 ### Step3 - Measurement of human visual attention
 
