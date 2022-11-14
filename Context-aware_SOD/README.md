@@ -2,7 +2,7 @@
 
 We propose a saliency-guided street view image inpainting method, which can remove distracting objects to redirect human visual attention to static landmarks.
 
-### Step1 - Context-aware salient object detection (SOD)
+### Step 1 - Context-aware salient object detection (SOD)
 
 1) Image Segmmentation using <a href="https://github.com/open-mmlab/mmsegmentation/tree/master/configs/deeplabv3plus">DeepLabv3+</a>, <a href="https://github.com/open-mmlab/mmsegmentation/blob/master/configs/deeplabv3plus/deeplabv3plus_r101-d8_769x769_80k_cityscapes.py">Model</a>;
 2) Salient Object Detection using <a href="https://github.com/xuebinqin/U-2-Net">U^2Net</a>;
