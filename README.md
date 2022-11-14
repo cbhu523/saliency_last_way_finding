@@ -5,6 +5,9 @@ We propose a saliency-guided street view image inpainting method, which can remo
 ![Figure1](Figures/Fig.png)
 
 ## Summary 
+Overview of the proposed saliency-guided street view image inpainting framework. It consists of three building blocks: hierarchical salient object selection, saliency-guided image inpainting based on fast Fourier convolutions (FFCs), and measurement of human visual attention by visual attention changes and a self-developed last-meters wayfinding testing platform. Note that modeling the interaction between saliency detection and image inpainting leads to effective removal of distracting objects for last-meters wayfinding.
+
+![Figure1](Figures/Fig2.png)
 
 ## Citation
 For more details please refer to our paper:
