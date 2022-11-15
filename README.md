@@ -1,6 +1,6 @@
 # A Saliency-Guided Street View Image Inpainting Framework for Efficient Last-Meters Wayfinding [<a href="https://arxiv.org/pdf/2205.06934.pdf?ref=https://githubhelp.com">Paper</a>]
 
-We propose a saliency-guided street view image inpainting method, which can remove distracting objects to redirect human visual attention to static landmarks. Accepted by <a href="https://www.sciencedirect.com/journal/isprs-journal-of-photogrammetry-and-remote-sensing">ISPRS Journal of Photogrammetry and Remote Sensing</a>.
+We propose a saliency-guided street view image inpainting method, which can remove distracting objects to redirect human visual attention to static landmarks. This work has been accepted by <a href="https://www.sciencedirect.com/journal/isprs-journal-of-photogrammetry-and-remote-sensing">ISPRS Journal of Photogrammetry and Remote Sensing</a>.
 
 ![Figure1](Figures/Fig.png)
 
