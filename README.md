@@ -1,4 +1,4 @@
-# A Saliency-Guided Street View Image Inpainting Framework for Efficient Last-Meters Wayfinding [<a href="https://arxiv.org/pdf/2205.06934.pdf?ref=https://githubhelp.com">Paper</a>]
+# A Saliency-Guided Street View Image Inpainting Framework for Efficient Last-Meters Wayfinding [<a href="https://arxiv.org/pdf/2205.06934.pdf?ref=https://githubhelp.com">Paper</a>] (Accepted by ISPRS Journal of Photogrammetry and Remote Sensing)
 
 We propose a saliency-guided street view image inpainting method, which can remove distracting objects to redirect human visual attention to static landmarks.
 
@@ -26,7 +26,7 @@ Evaluation of human visual changes based on UNISAL network (<a href="https://git
 For more details please refer to our paper:
 ```
 @article{hu2022saliency,
-  title={A Saliency-Guided Street View Image Inpainting Framework for Efficient Last-Meters Wayfinding},
+  title={A Saliency-Guided Street View Image InpaintISPRS Journal of Photogrammetry and Remote Sensinging Framework for Efficient Last-Meters Wayfinding},
   author={Hu, Chuanbo and Jia, Shan and Zhang, Fan and Li, Xin},
   journal={arXiv preprint arXiv:2205.06934},
   year={2022}
