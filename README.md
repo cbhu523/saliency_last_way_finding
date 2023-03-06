@@ -25,9 +25,13 @@ Evaluation of human visual changes based on UNISAL network (<a href="https://git
 ## Citation
 For more details please refer to our paper:
 ```
-@article{hu2022saliency,
-  title={A Saliency-Guided Street View Image InpaintISPRS Journal of Photogrammetry and Remote Sensinging Framework for Efficient Last-Meters Wayfinding},
+
+@article{hu2023saliency,
+  title={A saliency-guided street view image inpainting framework for efficient last-meters wayfinding},
   author={Hu, Chuanbo and Jia, Shan and Zhang, Fan and Li, Xin},
-  journal={arXiv preprint arXiv:2205.06934},
-  year={2022}
+  journal={ISPRS Journal of Photogrammetry and Remote Sensing},
+  volume={195},
+  pages={365--379},
+  year={2023},
+  publisher={Elsevier}
 }
